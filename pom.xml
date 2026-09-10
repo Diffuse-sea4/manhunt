@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://apache.org http://apache.org">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.Theman75</groupId>
+    <groupId>com.theman75</groupId>
     <artifactId>manhunt</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
@@ -18,14 +18,10 @@
     </properties>
 
     <repositories>
-        <!-- Spigot Repository for 1.12.2 API -->
+        <!-- Correct Official Spigot Repository -->
         <repository>
-            <id>spigotmc-repo</id>
-            <url>https://spigotmc.org</url>
-        </repository>
-        <repository>
-            <id>sonatype</id>
-            <url>https://sonatype.org</url>
+            <id>spigot-repo</id>
+            <url>https://hub.spigotmc.org/nexus/content/groups/public/</url>
         </repository>
     </repositories>
 
@@ -64,3 +60,4 @@
         </plugins>
     </build>
 </project>
+
