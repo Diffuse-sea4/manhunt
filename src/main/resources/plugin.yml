@@ -1,6 +1,6 @@
 name: ClassicManhunt
 version: 1.0
-main: com.yourname.manhunt.Manhunt
+main: com.Theman75.manhunt.Manhunt
 api-version: 1.13
 description: Classic Manhunt plugin for 1.12.2 where hunters track the runner.
 commands:
