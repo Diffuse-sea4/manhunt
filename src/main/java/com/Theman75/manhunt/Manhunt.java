@@ -1,4 +1,4 @@
-package com.yourname.manhunt;
+package com.Theman75.manhunt;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
