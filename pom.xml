@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://apache.org http://apache.org">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.yourname</groupId>
+    <groupId>com.Theman75</groupId>
     <artifactId>manhunt</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
