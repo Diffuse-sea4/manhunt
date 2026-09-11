@@ -1,10 +1,8 @@
 # Manhunt Plugin
-**Step 1**  
-Fork The repository  
-Then go to the actions tab. and press "Update pom.xml"  
-then scroll down to where it says artifacts  
+**Step 1**
+Press The Actions tab  
+Then press "Update pom.xml"  
 **Step 2**
-Once you are here
-press the Artifact named "Manhunt-Plugin and then you'll download a folder named Manhunt-Plugin  
-
-Then in the folder you will have your .jar file
+then Scroll down to "Artifacts"  
+then press the link of the file in the bottom  
+It should download you the .jar file
