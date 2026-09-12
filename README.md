@@ -4,7 +4,7 @@ It'll have the .jar file
 > Idk
 <details>
   <summary><b>Expand</b></summary>
-  # Added /hunter and /runner
-  Hunter uses /hunter
+  # Added /hunter and /runner  
+  Hunter uses /hunter  
   and runner uses /runner
 </details>
